@@ -1,1 +1,1 @@
-city = thiruvanathapuram
+city: none
